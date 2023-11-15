@@ -7,7 +7,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/google/go-cmp v0.6.0
 	github.com/gorilla/websocket v1.5.0
-	github.com/miekg/dns v1.1.56
+	github.com/miekg/dns v1.1.57
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pires/go-proxyproto v0.7.0
 	github.com/quic-go/quic-go v0.40.0
@@ -22,7 +22,7 @@ require (
 	go4.org/netipx v0.0.0-20230824141953-6213f710f925
 	golang.org/x/crypto v0.14.0
 	golang.org/x/net v0.17.0
-	golang.org/x/sync v0.3.0
+	golang.org/x/sync v0.4.0
 	golang.org/x/sys v0.13.0
 	google.golang.org/grpc v1.59.0
 	google.golang.org/protobuf v1.31.0
